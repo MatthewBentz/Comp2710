@@ -1,5 +1,5 @@
 
-    Total Clones per Day from 2022-09-08 to 2022-09-12
+    Total Clones per Day from 2022-09-08 to 2022-09-13
 
     Repository Clones
     6.00  ┼╮
@@ -12,12 +12,12 @@
     3.20  ┤╰─╮
     2.80  ┤  │
     2.40  ┤  │
-    2.00  ┤  ╰╮
-    1.60  ┤   │
-    1.20  ┤   │
-    0.80  ┤   │
-    0.40  ┤   │
-    0.00  ┤   ╰
+    2.00  ┤  ╰─╮
+    1.60  ┤    │
+    1.20  ┤    │
+    0.80  ┤    │
+    0.40  ┤    │
+    0.00  ┤    ╰
 
-    Chart last updated - Mon Sep 12 02:22:17 2022 UTC
+    Chart last updated - Tue Sep 13 02:13:53 2022 UTC
     
