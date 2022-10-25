@@ -5,7 +5,7 @@ Coded in Eclipse IDE using MinGW GCC C++ Compiler to compile.
 Uploaded and tested in AU server.
 
 ```
-    Total Views per Day from 2022-08-27 to 2022-10-24
+    Total Views per Day from 2022-08-27 to 2022-10-25
 
     Repository Views
    62.00  ┼                                               ╭╮
@@ -22,10 +22,10 @@ Uploaded and tested in AU server.
    16.53  ┤           ││                                  ││
    12.40  ┤           ││                                  ││
     8.27  ┤           ││╭╮        ╭╮                     ╭╯│     ╭╮
-    4.13  ┼╮  ╭╮      ││││        ││╭╮╭╮    ╭╮        ╭──╯ ╰───╮ │╰╮
-    0.00  ┤╰──╯╰──────╯╰╯╰────────╯╰╯╰╯╰────╯╰────────╯        ╰─╯ ╰─
+    4.13  ┼╮  ╭╮      ││││        ││╭╮╭╮    ╭╮        ╭╮╭╯ ╰───╮ │╰╮
+    0.00  ┤╰──╯╰──────╯╰╯╰────────╯╰╯╰╯╰────╯╰────────╯╰╯      ╰─╯ ╰──
 
-    Chart last updated - Mon Oct 24 02:29:14 2022 UTC
+    Chart last updated - Tue Oct 25 02:24:23 2022 UTC
     
 ```
 
